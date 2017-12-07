@@ -1,0 +1,15 @@
+{
+  "name": "wiki_viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blane Downing-Jennings <bddowningjennings.dev@gmail.com> (https://github.com/bddowningjennings-dev)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
