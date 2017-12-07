@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+img {
+}
+.jumbotron {
+  margin: 30px auto;
+  text-align: center;  
+}
+.degree {
+  color: teal;
+}
+.container, body {
+  background-color: #1e95e0;
+}
+.search_title, .search_snippet {
+  text-align: left;
+}
+.search_result {
+  border-top: 1px solid whitesmoke;
+  border-bottom: 1px solid whitesmoke;
+  padding: 10px;
+}
